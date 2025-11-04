@@ -80,4 +80,6 @@ From the Terminal (alternative): You can also launch it directly from the termin
 ./arduino-ide
 ```
 
-You are now ready to connect your microcontroller ($\text{Arduino}/\text{ESP}32$) and begin writing the control code for your Solar LED Street Lighting system!
+You arenow ready to connect your microcontroller ($\text{Arduino}/\text{ESP}32$) and begin writing the control code for your Solar LED Street Lighting system!
+
+ <img width="1366" height="768" alt="Screenshot (213)" src="https://github.com/user-attachments/assets/9f8116bb-b27c-4ea8-8971-e088e2165eeb" />
